@@ -4,5 +4,6 @@
 
 ## Install
 `$ curl -sS https://getcomposer.org/installer | php`
+
 `$ ./composer.phar create-project pct/pails my-project`
 
