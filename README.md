@@ -6,5 +6,5 @@
 
 	$ curl -sS https://getcomposer.org/installer | php
 
-	$ composer create-project pct/pails --stability=dev
+	$ ./composer.phar create-project pct/pails --stability=dev
 
